@@ -15,4 +15,4 @@
 ## Some figures
 ![image](https://github.com/anhthiphuongtran/movie-budget/assets/105230494/cf5b5435-4657-446b-825c-1e2d2753315b)
 
-![image](https://github.com/anhthiphuongtran/movie-budget/assets/105230494/0514a30d-54f6-43c3-a27e-d4cf615fe8d3)
+![image](https://github.com/anhthiphuongtran/movie-budget/assets/105230494/7d174618-92b9-4e01-9940-1af3160a8909)
