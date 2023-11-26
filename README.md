@@ -1,7 +1,7 @@
 # Investigate the relation between Movie Budget and Box Office Revenue
 
 ## About
-* This project will examine whether movie production budget exhibits a positive relationship with box office revenue. To achieve this target, I will employ data of 6,000 movies extracted from the website: [the-numbers.com](https://www.the-numbers.com/movie/budgets), using particularly the table concerning Biggest Budgets movies.
+* This project will examine whether movie production budget exhibits a positive relationship with box office revenue and also use the discovered relation to estimate movie revenue given production cost. To achieve this target, I will employ data of 6,000 movies extracted from the website: [the-numbers.com](https://www.the-numbers.com/movie/budgets), using particularly the table concerning Biggest Budgets movies.
 
 * In this project, I will conduct data exploration and cleaning, data visualisation and analysis as well as data prediction.
 
